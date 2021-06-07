@@ -1,0 +1,13 @@
+.footer{
+    /* background-color: red;
+    border: 2px solid black; */
+    height: 90px;
+    margin-top: 40px;
+    background-color: grey;
+}
+.footer h1{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+}
